@@ -165,3 +165,28 @@ hr {
   margin: 15px 0px;
   color: #757575;
 }
+
+.contact-container {
+  padding: 64px 16px;
+}
+
+.contact-container h1 {
+  font-size: 36px;
+  letter-spacing: 5px;
+  font-weight: 400;
+  margin: 10px 0px;
+}
+
+.contact-intro {
+  margin: 15px 0px;
+}
+
+.address {
+  font-size: 18px;
+  color: #607d8b;
+  font-weight: bold;
+}
+
+.phone-email {
+  margin: 15px 0px;
+}
