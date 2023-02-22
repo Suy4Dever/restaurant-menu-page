@@ -190,3 +190,18 @@ hr {
 .phone-email {
   margin: 15px 0px;
 }
+
+form input {
+  display: block;
+  padding: 16px 8px;  
+  width: 100%;
+  margin: 15px 0px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  font-size: 15px;
+}
+
+form p {
+  font-size: 15px;
+  font-family: 'Times New Roman';
+}
