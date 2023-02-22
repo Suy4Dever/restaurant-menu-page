@@ -145,3 +145,23 @@ hr {
 .menu-img-container img {
   opacity: 0.75;
 }
+
+.menu-header {
+  font-size: 36px;
+  font-weight: 400;
+  margin: 10px 0px;
+  left: 5px;
+  text-align: center;
+}
+
+.menu-detail h4 {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 5px;
+  margin: 10px 0px;
+}
+
+.menu-detail p {
+  margin: 15px 0px;
+  color: #757575;
+}
