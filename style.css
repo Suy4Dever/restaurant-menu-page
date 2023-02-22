@@ -115,3 +115,9 @@ nav a:hover {
 .about-text-2 {
   color: #757575;
 }
+
+.about-text-1 span {
+  font-size: 18px;
+  background-color: #f1f1f1;
+  padding: 0px 8px;
+}
