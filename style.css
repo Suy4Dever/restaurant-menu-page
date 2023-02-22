@@ -38,6 +38,7 @@ nav a:link {
   padding: 8px 16px;
   letter-spacing: 4px;
   text-decoration: none;
+  color: black;
 }
 
 nav a:visited {
