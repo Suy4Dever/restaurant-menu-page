@@ -122,9 +122,26 @@ nav a:hover {
   padding: 0px 8px;
 }
 
+hr {
+  margin: 20px 0px;
+  border-top: 1px solid #eee;
+}
+
 .menu-container {
   padding: 64px 0px;
   display: flex;
 }
 
-.
+.menu-text-container {
+  padding: 12px 24px;
+  width: 50%;
+}
+
+.menu-img-container {
+  width: 50%;
+  padding: 12px 24px;
+}
+
+.menu-img-container img {
+  opacity: 0.75;
+}
